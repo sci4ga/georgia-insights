@@ -1,0 +1,8 @@
+pandas
+geopandas
+descartes
+plotly
+plotly-geo
+pyshp
+matplotlib
+requests_cache
