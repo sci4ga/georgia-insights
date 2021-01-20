@@ -39,7 +39,13 @@ You will find the following directories in this project:
 
 ## Contributing
 
-If you would like to tell a story about Georgia using data, please create a pull request including all required data sources and include a directory under 'Insights' that includes the narrative and supporting Jupyter notebook or Power BI file. Please follow the following guidance...
+If you would like to tell a story about Georgia using data, please create a pull request including:
+* all required data sources
+* a directory under 'Insights' with:
+  * a narrative 
+  * supporting Jupyter notebook or Power BI file.
+
+Please follow the guidance given for each of the following...
 
 ### Data Sources
 coming soon...
